@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Randomnessness.Browser",
   "resources": {
-    "hash": "sha256-72U/vv4REORaJqmG63fBBuel8C5fg4ad/zLLGafe36E=",
+    "hash": "sha256-YsbEYGtvFAz27GI0Gyt+br18I1TjxTOucJE7m02JnbI=",
     "fingerprinting": {
       "Avalonia.Base.i2jlo1pme1.wasm": "Avalonia.Base.wasm",
       "Avalonia.Browser.z6zgz4xh4j.wasm": "Avalonia.Browser.wasm",
@@ -31,8 +31,8 @@
       "Microsoft.Extensions.Logging.cw5r76fsgm.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Options.8edkhi1ovl.wasm": "Microsoft.Extensions.Options.wasm",
       "Microsoft.Extensions.Primitives.bhsej6i4k3.wasm": "Microsoft.Extensions.Primitives.wasm",
-      "Randomnessness.Browser.ygdmx0l48q.wasm": "Randomnessness.Browser.wasm",
-      "Randomnessness.uh8r6p27ki.wasm": "Randomnessness.wasm",
+      "Randomnessness.Browser.ucc8gck580.wasm": "Randomnessness.Browser.wasm",
+      "Randomnessness.i2jpp7vkpc.wasm": "Randomnessness.wasm",
       "SkiaSharp.ud7gia8rjr.wasm": "SkiaSharp.wasm",
       "System.Collections.Concurrent.7gl5qq6pue.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.NonGeneric.7ra0qly03y.wasm": "System.Collections.NonGeneric.wasm",
@@ -119,8 +119,8 @@
       "Microsoft.Extensions.Logging.cw5r76fsgm.wasm": "sha256-ZHrABqKRAfmwVtwvp1qjmsR6qngHKoeH+sSAe2L/cHU=",
       "Microsoft.Extensions.Options.8edkhi1ovl.wasm": "sha256-0MmpuZMy9V8l0TQyCzh4gU4GCfvyEDLxvD10G9Fyk/g=",
       "Microsoft.Extensions.Primitives.bhsej6i4k3.wasm": "sha256-UY0WH6wDKYfkzimVzg1YvOgPKn/tQIpDVbJh1NSKEOI=",
-      "Randomnessness.Browser.ygdmx0l48q.wasm": "sha256-sv7imEcVmGZmeoP+giwl/+skTFSKxwmw0/ibuetsgO4=",
-      "Randomnessness.uh8r6p27ki.wasm": "sha256-wg2l6EUNk6EImZLllsx6Aiji6hUQBlk5ewbt7ZTsgwE=",
+      "Randomnessness.Browser.ucc8gck580.wasm": "sha256-jjCct52KfiQrAEiHNilWmiSuDq5+OFTEqjYC85WBAJs=",
+      "Randomnessness.i2jpp7vkpc.wasm": "sha256-ylEW1sprG1ZqYx6K5Ky8JZ3WaAxUEThP38QvrNo9EDY=",
       "SkiaSharp.ud7gia8rjr.wasm": "sha256-nnx093/TkYGyYnwqIetX8fjZ4ltpbTjKgV0j9nkBaXM=",
       "System.Collections.Concurrent.7gl5qq6pue.wasm": "sha256-KWIIokzyJu36x7mzY3DZcuTnedY9Ks9tiND0zgznJTk=",
       "System.Collections.NonGeneric.7ra0qly03y.wasm": "sha256-jdt6M+t+EfeW72gYqJbGDSCC8S1QCl1IjlpAmH5MIzo=",
