@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Randomnessness.Browser",
   "resources": {
-    "hash": "sha256-8QVYGoCMCnIVmoGsfHzfE+KdW/eW60cLliXg0YzckwY=",
+    "hash": "sha256-Ucpm6Ji+ZBoSNYzlXCFpUiPzcBPYDRuz1u0qOIbQGV8=",
     "fingerprinting": {
       "Avalonia.Base.zg822ma4ok.wasm": "Avalonia.Base.wasm",
       "Avalonia.Browser.z6zgz4xh4j.wasm": "Avalonia.Browser.wasm",
@@ -32,7 +32,7 @@
       "Microsoft.Extensions.Options.8edkhi1ovl.wasm": "Microsoft.Extensions.Options.wasm",
       "Microsoft.Extensions.Primitives.bhsej6i4k3.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Randomnessness.Browser.fp538xeg4o.wasm": "Randomnessness.Browser.wasm",
-      "Randomnessness.9dr1uiw2k1.wasm": "Randomnessness.wasm",
+      "Randomnessness.0155h0qptm.wasm": "Randomnessness.wasm",
       "SkiaSharp.ud7gia8rjr.wasm": "SkiaSharp.wasm",
       "System.Collections.Concurrent.7gl5qq6pue.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.NonGeneric.7ra0qly03y.wasm": "System.Collections.NonGeneric.wasm",
@@ -121,7 +121,7 @@
       "Microsoft.Extensions.Options.8edkhi1ovl.wasm": "sha256-0MmpuZMy9V8l0TQyCzh4gU4GCfvyEDLxvD10G9Fyk/g=",
       "Microsoft.Extensions.Primitives.bhsej6i4k3.wasm": "sha256-UY0WH6wDKYfkzimVzg1YvOgPKn/tQIpDVbJh1NSKEOI=",
       "Randomnessness.Browser.fp538xeg4o.wasm": "sha256-o0uJXa2thqZZKj47cJf00bRl7LcoFTkoEfAubKgEk0s=",
-      "Randomnessness.9dr1uiw2k1.wasm": "sha256-M9m33Q61BHWWCWjOIh1yVSzBHgWQk8WduZLtlSi+3RU=",
+      "Randomnessness.0155h0qptm.wasm": "sha256-TMaX96N1QgeDprOc49AvVIANbel3Zl8PBSdI4xJeXGM=",
       "SkiaSharp.ud7gia8rjr.wasm": "sha256-nnx093/TkYGyYnwqIetX8fjZ4ltpbTjKgV0j9nkBaXM=",
       "System.Collections.Concurrent.7gl5qq6pue.wasm": "sha256-KWIIokzyJu36x7mzY3DZcuTnedY9Ks9tiND0zgznJTk=",
       "System.Collections.NonGeneric.7ra0qly03y.wasm": "sha256-jdt6M+t+EfeW72gYqJbGDSCC8S1QCl1IjlpAmH5MIzo=",
